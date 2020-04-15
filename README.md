@@ -1,24 +1,17 @@
-# color
+# Color
 
-## Project setup
-```
-yarn install
-```
+[color.enotcode.com](https://color.enotcode.com/)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![screenshot](.github/screenshot.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# Local launch
 
-### Lints and fixes files
-```
-yarn lint
-```
+1. Clone repo: `https://github.com/enotcode/color.git`
+2. Run `cd color`
+3. Run `yarn install`
+4. Run `yarn serve` for live-preview
+5. Go to `localhost:8080`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# License
+
+[MIT](LICENSE)
