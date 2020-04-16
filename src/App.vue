@@ -34,7 +34,7 @@
             },
             save() {
                 if (this.colors.indexOf(this.mycolor) === -1) {
-                    if (this.colors.length > 30) {
+                    if (this.colors.length > 10) {
                         this.colors.splice(0, 1);
                     }
                     this.colors.push(this.mycolor);
