@@ -2,6 +2,8 @@
 
 [color.enotcode.com](https://color.enotcode.com/)
 
+[CodePen](https://codepen.io/enotcode/pen/QWjyZMW)
+
 ![screenshot](.github/screenshot.png)
 
 # Local launch
